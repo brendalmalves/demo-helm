@@ -13,3 +13,6 @@ Demo para IaC com helm desenvolvida para o projeto final da disciplina de Admini
 * Brenda Louisy Morais Alves - 119111113
 * Carmem Izaura Germano Barbosa Neri - 119210426
 * Lucas Galdino da Silva - 119111160
+
+## Links
+* Documento e slide: https://drive.google.com/drive/folders/1Vm7UnSkGuryJ73YX5UOjuXfpLPpqWZUP?usp=sharing
