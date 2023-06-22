@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: deploy
+  labels:
+    app: demo-helm
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: demo-helm
+  template:
+    metadata:
+      labels:
+        app: demo-helm
+    spec:
+      containers:
+        - name: demo-helm
+          image: brendalmalves/app-demo-helm:{{ .Values.appVersion }}
+          ports:
+            - containerPort: 3000
