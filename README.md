@@ -15,4 +15,4 @@ Demo para IaC com helm desenvolvida para o projeto final da disciplina de Admini
 * Lucas Galdino da Silva - 119111160
 
 ## Links
-* Documento e slide: https://drive.google.com/drive/folders/1Vm7UnSkGuryJ73YX5UOjuXfpLPpqWZUP?usp=sharing
+* https://drive.google.com/drive/folders/1Vm7UnSkGuryJ73YX5UOjuXfpLPpqWZUP?usp=sharing
