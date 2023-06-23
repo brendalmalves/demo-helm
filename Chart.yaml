@@ -14,16 +14,3 @@ maintainers:
 sources:
   - https://github.com/brendalmalves/demo-helm
 
-files:
-  - deployment.yaml
-  - service.yaml
-  - values.yaml
-
-defaultValues:
-  replicaCount: 3
-  image:
-    repository: brendalmalves/app-demo-helm
-    tag: 1.0.0
-  service:
-    name: service
-    port: 3000
